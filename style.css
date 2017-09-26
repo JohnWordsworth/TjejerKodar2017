@@ -1,0 +1,21 @@
+body {
+    background-color: #333355;
+    font-family: "Verdana";
+    color: #eeeeee;
+    margin: 0px;
+}
+
+h1 {
+    background-color: #444488;
+    padding: 6px;
+    text-align: center;    
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+canvas {
+    margin: 0 auto;
+}
